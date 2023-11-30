@@ -2,7 +2,7 @@
   "name": "matchaneco",
   "displayName": "MatchaNeco",
   "description": "MatchaNeco is a lucafalasco/matcha fork",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "necosawa",
   "icon": "assets/icon.png",
   "galleryBanner": {
