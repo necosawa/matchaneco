@@ -1,19 +1,15 @@
-## 🍃 Matcha is a dark, earthy theme for VS code
+## 🍃 MatchaNeco は lucafalasco/matcha のアレンジです
 
-The color palette is designed to be energizing and improve focus while being easy on the eye.
-
-_If you are looking for a refreshed version with more color options check out V2 of the theme: [matchalk](https://github.com/lucafalasco/matchalk)_
+このテーマは "lucafalasco/matcha" のです。vscode用です。
+下記の言語に対応しています。
 
 ---
 
 #### Javascript
 
-![theme-js](https://raw.githubusercontent.com/lucafalasco/matcha/master/assets/theme-js.png)
-
 #### CSS
-
-![theme-css](https://raw.githubusercontent.com/lucafalasco/matcha/master/assets/theme-css.png)
 
 #### HTML
 
-![theme-html](https://raw.githubusercontent.com/lucafalasco/matcha/master/assets/theme-html.png)
+#### PHP
+

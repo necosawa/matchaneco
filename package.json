@@ -1,9 +1,9 @@
 {
-  "name": "matcha",
-  "displayName": "Matcha",
-  "description": "Matcha is a dark, earthy theme for VS Code",
-  "version": "0.0.12",
-  "publisher": "lucafalasco",
+  "name": "matchaneco",
+  "displayName": "MatchaNeco",
+  "description": "MatchaNeco is a lucafalasco/matcha fork",
+  "version": "0.0.1",
+  "publisher": "necosawa",
   "icon": "assets/icon.png",
   "galleryBanner": {
     "color": "#D1DED3",
@@ -16,6 +16,7 @@
     "Themes"
   ],
   "keywords": [
+    "matchaneco",
     "matcha",
     "theme",
     "color-theme",
@@ -26,15 +27,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Matcha",
+        "label": "MatchaNeco",
         "uiTheme": "vs-dark",
-        "path": "./themes/matcha-color-theme.json"
+        "path": "./themes/matchaneco-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucafalasco/matcha.git"
+    "url": "https://github.com/necosawa/matchaneco.git"
   },
-  "homepage": "https://github.com/lucafalasco/matcha/blob/master/README.md"
+  "homepage": "https://github.com/necosawa/matchaneco/blob/master/README.md"
 }
